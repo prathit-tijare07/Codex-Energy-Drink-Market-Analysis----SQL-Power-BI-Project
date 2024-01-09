@@ -1,9 +1,9 @@
-# Codex-Energy-Drink-Market-Analysis----SQL-Power-BI-Project
+# CodeX-Energy-Drink-Market-Analysis----SQL-Power-BI-Project
 
 This project was made as a part of: "Codebasics Resume Challenge #6"
 
 Project Overview
-CodeX is a German beverage company looking to expand its market into India.
+CodeX is a German beverage company looking to expand its market into INDIA.
 They have already launched their energy drink in 10 Indian cities.
 They conducted a survey in those 10 cities, and 10,000 people responded
 This project aims to develop a comprehensive marketing strategy to help Codex achieve its objectives in the INDIAN Market.
@@ -21,8 +21,7 @@ Key Findings:-
 3. Preferred Ingredient:- Caffeine
 4. Packaging:- Compact and Innovative Cans.  
 5. Marketing channel: Online ads and TV commercials.
-6. Brand Ambassador:- Sports Person or Musician with a wide social-media influence.	
-7. The product should have fresh flavors with healthy ingredients.
+6. The product should have fresh flavors with healthy ingredients.
 
 Insights :-
 1. Around 60% of consumers are MALE followed by Female and Non-Binary.
